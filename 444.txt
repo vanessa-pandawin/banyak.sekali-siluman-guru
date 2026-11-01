@@ -54,14 +54,14 @@
 
 	<meta name="description" content="777WZ menjadi pilihan portal gaming digital dengan tampilan menarik dan sistem navigasi yang mudah digunakan. Jelajahi berbagai kategori permainan, informasi fitur terbaru, serta panduan akses melalui perangkat smartphone maupun desktop. Nikmati pengalaman menjelajahi hiburan digital dengan desain platform yang praktis dan responsif." />
 	<meta name="robots" content="index, follow, max-image-preview:large" />
-	<link rel="canonical" href="https://wansait.com/nicuilie/" />
+	<link rel="canonical" href="https://wansait.com/nicuilie/hotnews/" />
 	<meta name="generator" content="777WZ" />
 		<meta property="og:locale" content="en_US" />
 		<meta property="og:site_name" content="777WZ ⭐️ Portal Gaming Online dengan Akses Praktis dan Fitur Digital Modern" />
 		<meta property="og:type" content="website" />
 		<meta property="og:title" content="777WZ ⭐️ Portal Gaming Online dengan Akses Praktis dan Fitur Digital Modern" />
 		<meta property="og:description" content="777WZ menjadi pilihan portal gaming digital dengan tampilan menarik dan sistem navigasi yang mudah digunakan. Jelajahi berbagai kategori permainan, informasi fitur terbaru, serta panduan akses melalui perangkat smartphone maupun desktop. Nikmati pengalaman menjelajahi hiburan digital dengan desain platform yang praktis dan responsif." />
-		<meta property="og:url" content="https://wansait.com/nicuilie/" />
+		<meta property="og:url" content="https://wansait.com/nicuilie/hotnews/" />
 		<meta property="og:image" content="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhyh1fVW-6w2dpJBDbiZkYUuCE4sJNdgch-KlbVLQ0dmJJmcEtn44yj0tHomgcjISUxZHFQjMB5Xy5no1HScG7BAxJjd5ndf21nIoIC-h7d3CxpcEsDcAHC9lBTxdQtTjp68LdLFa8uhUMMne6JrjqGF3KspCvuzBDq3rAEeLwQw3kbrug5gu3xmAqDAnEt/s1600/20261101_063146090_iOS.png" />
 		<meta property="og:image:secure_url" content="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhyh1fVW-6w2dpJBDbiZkYUuCE4sJNdgch-KlbVLQ0dmJJmcEtn44yj0tHomgcjISUxZHFQjMB5Xy5no1HScG7BAxJjd5ndf21nIoIC-h7d3CxpcEsDcAHC9lBTxdQtTjp68LdLFa8uhUMMne6JrjqGF3KspCvuzBDq3rAEeLwQw3kbrug5gu3xmAqDAnEt/s1600/20261101_063146090_iOS.png" />
 		<meta name="twitter:card" content="summary_large_image" />
@@ -89,7 +89,7 @@
 <meta property="og:image" content="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhyh1fVW-6w2dpJBDbiZkYUuCE4sJNdgch-KlbVLQ0dmJJmcEtn44yj0tHomgcjISUxZHFQjMB5Xy5no1HScG7BAxJjd5ndf21nIoIC-h7d3CxpcEsDcAHC9lBTxdQtTjp68LdLFa8uhUMMne6JrjqGF3KspCvuzBDq3rAEeLwQw3kbrug5gu3xmAqDAnEt/s1600/20261101_063146090_iOS.png" />
 <meta property="og:title" content="777WZ ⭐️ Portal Gaming Online dengan Akses Praktis dan Fitur Digital Modern" />
 <meta property="og:description" content="777WZ menjadi pilihan portal gaming digital dengan tampilan menarik dan sistem navigasi yang mudah digunakan. Jelajahi berbagai kategori permainan, informasi fitur terbaru, serta panduan akses melalui perangkat smartphone maupun desktop. Nikmati pengalaman menjelajahi hiburan digital dengan desain platform yang praktis dan responsif.">
-<meta property="og:url" content="https://wansait.com/nicuilie/" />
+<meta property="og:url" content="https://wansait.com/nicuilie/hotnews/" />
 <meta property="og:site_name" content="KOMPAS.com" />
 <meta property="fb:app_id" content="324557847592228" />
 <!-- e:fb meta -->
@@ -106,7 +106,7 @@
 <link rel="alternate" href="https://banyak-sekali-siluman-guru.pages.dev/444"/>
 <link rel="alternate" hreflang="id" href="https://banyak-sekali-siluman-guru.pages.dev/444"/>
 <link rel="alternate" hreflang="en" href="https://banyak-sekali-siluman-guru.pages.dev/444"/>
-<link rel="alternate" hreflang="x-default" href="https://wansait.com/nicuilie/"/>
+<link rel="alternate" hreflang="x-default" href="https://wansait.com/nicuilie/hotnews/"/>
 <meta name="content_category" content="Prov" />
 <meta name="content_subcategory" content="Jawa Barat" />
 <meta name="content_location" content="Di" />
@@ -325,7 +325,7 @@ var rl_adx_val = '';
 {
   "@context": "http://schema.org",
   "@type": "WebSite",
-  "url": "https://wansait.com/nicuilie/",
+  "url": "https://wansait.com/nicuilie/hotnews/",
   "potentialAction": {
     "@type": "SearchAction",
     "target": "/?s={search_term_string}",
@@ -346,7 +346,7 @@ var rl_adx_val = '';
 {
   "@context" : "http://schema.org",
   "@type" : "Organization",
-  "url": "https://wansait.com/nicuilie/",
+  "url": "https://wansait.com/nicuilie/hotnews/",
   "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhyh1fVW-6w2dpJBDbiZkYUuCE4sJNdgch-KlbVLQ0dmJJmcEtn44yj0tHomgcjISUxZHFQjMB5Xy5no1HScG7BAxJjd5ndf21nIoIC-h7d3CxpcEsDcAHC9lBTxdQtTjp68LdLFa8uhUMMne6JrjqGF3KspCvuzBDq3rAEeLwQw3kbrug5gu3xmAqDAnEt/s1600/20261101_063146090_iOS.png",
   "sameAs" : [
     "https://www.facebook.com/kompascom",
@@ -433,7 +433,7 @@ src="https://www.facebook.com/tr?id=423063207362401&ev=PageView&noscript=1"
             <div class="row col-offset-fluid clearfix">
                 <div class="col-bs10-5 clearfix">
                     <div class="logo">
-                        <a href="https://wansait.com/nicuilie/" data-google-interstitial="false">
+                        <a href="https://wansait.com/nicuilie/hotnews/" data-google-interstitial="false">
                                                             <style>.logo img {width:auto;}.logo {width:auto;}</style>
 
                                                                                                             <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjVVuthXzBHJUgi2CL8HHiCss_yJhSSnGITUS30omzNr6SBMWwlwwbKvoXwyKyqrlmDXlkqlAKsX5MkyfUmTfWpk5qLep46B6O7ze4PtM5ZGRNIfQaHEYEYcqEtUdoEgvfqXaBimM84rVyJmC3t_Fp_luwlN0BahbQqvyqdsVNQB_bWlKHbI6XMq2Dcm9l8/s320/gacor.gif" alt="777WZ ⭐️ Portal Gaming Online dengan Akses Praktis dan Fitur Digital Modern">
@@ -565,7 +565,7 @@ src="https://www.facebook.com/tr?id=423063207362401&ev=PageView&noscript=1"
         <!-- (ads.skin.full) -->
         <div class="container clearfix nav__wrap">
             <div class="logo logo--sticky">
-                                    <a href="https://wansait.com/nicuilie/"><img class="lozad" data-src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjVVuthXzBHJUgi2CL8HHiCss_yJhSSnGITUS30omzNr6SBMWwlwwbKvoXwyKyqrlmDXlkqlAKsX5MkyfUmTfWpk5qLep46B6O7ze4PtM5ZGRNIfQaHEYEYcqEtUdoEgvfqXaBimM84rVyJmC3t_Fp_luwlN0BahbQqvyqdsVNQB_bWlKHbI6XMq2Dcm9l8/s320/gacor.gif" alt="777WZ ⭐️ Portal Gaming Online dengan Akses Praktis dan Fitur Digital Modern" /></a>
+                                    <a href="https://wansait.com/nicuilie/hotnews/"><img class="lozad" data-src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjVVuthXzBHJUgi2CL8HHiCss_yJhSSnGITUS30omzNr6SBMWwlwwbKvoXwyKyqrlmDXlkqlAKsX5MkyfUmTfWpk5qLep46B6O7ze4PtM5ZGRNIfQaHEYEYcqEtUdoEgvfqXaBimM84rVyJmC3t_Fp_luwlN0BahbQqvyqdsVNQB_bWlKHbI6XMq2Dcm9l8/s320/gacor.gif" alt="777WZ ⭐️ Portal Gaming Online dengan Akses Praktis dan Fitur Digital Modern" /></a>
                             </div>
 
               
@@ -1077,7 +1077,7 @@ src="https://www.facebook.com/tr?id=423063207362401&ev=PageView&noscript=1"
         <!-- read header-->
         <div class="read__header col-offset-fluid clearfix">
             <div class="col-bs10-10">
-                <div class="read__time"><a href="https://wansait.com/nicuilie/">777WZ</a></div>
+                <div class="read__time"><a href="https://wansait.com/nicuilie/hotnews/">777WZ</a></div>
             </div>
             
             <div class="col-bs10-10">            </div>
@@ -1647,31 +1647,31 @@ src="https://www.facebook.com/tr?id=423063207362401&ev=PageView&noscript=1"
     <div class="most__wrap clearfix">
         <div class="most__list  clearfix"> 
     <div class="most__count">1</div>
-        <a class="most__link" href="https://wansait.com/nicuilie/">
+        <a class="most__link" href="https://wansait.com/nicuilie/hotnews/">
         <div class="most__title">Server permainan terbaik dengan akses tercepat saat ini hanya bisa kamu temukan di 777WZ. Dengan teknologi terbaru, 777WZ slot memberikan pengalaman bermain yang super lancar tanpa lag, bahkan saat traffic sedang tinggi. Segera lakukan 777WZ login dan rasakan sendiri keunggulan server cepat yang membuat permainan jauh lebih nyaman dan menyenangkan.</div> 
             </a>
 </div>
 <div class="most__list  clearfix"> 
     <div class="most__count">2</div>
-        <a class="most__link" href="https://wansait.com/nicuilie/">
+        <a class="most__link" href="https://wansait.com/nicuilie/hotnews/">
         <div class="most__title">Fitur canggih pemberi hoki dan cuan terbaik untuk para pemain slot hanya tersedia di 777WZ. 777WZ slot dilengkapi dengan berbagai tools dan fitur modern yang membantu meningkatkan peluang menang, mulai dari auto spin hingga analisis pola permainan. Jangan lewatkan kesempatan ini, lakukan 777WZ login sekarang dan manfaatkan semua fitur hoki yang siap memberikan cuan maksimal.</div> 
             </a>
 </div>
 <div class="most__list  clearfix"> 
     <div class="most__count">3</div>
-        <a class="most__link" href="https://wansait.com/nicuilie/">
+        <a class="most__link" href="https://wansait.com/nicuilie/hotnews/">
         <div class="most__title">777WZ sudah terkenal di kalangan pemain karena kelancaran akses dan proses penyediaan game yang sangat baik. Ribuan pilihan game di 777WZ slot selalu tersedia dengan loading cepat dan tampilan jernih di semua perangkat. Untuk menikmati semua keunggulan tersebut, cukup lakukan 777WZ login melalui link resmi dan langsung rasakan kualitas permainan kelas atas.</div> 
             </a>
 </div>
 <div class="most__list  clearfix"> 
     <div class="most__count">4</div>
-        <a class="most__link" href="https://wansait.com/nicuilie/">
+        <a class="most__link" href="https://wansait.com/nicuilie/hotnews/">
         <div class="most__title">Memasuki awal tahun 2026, 777WZ siap membagikan berbagai bonus menarik untuk para pemain setia. Dari bonus new member hingga bonus harian, 777WZ slot memberikan kejutan cuan yang sangat menguntungkan di awal tahun ini. Segera lakukan 777WZ login dan cek promo awal tahun yang siap meningkatkan modal bermain kamu secara signifikan.</div> 
             </a>
 </div>
 <div class="most__list  clearfix"> 
     <div class="most__count">5</div>
-        <a class="most__link" href="https://wansait.com/nicuilie/">
+        <a class="most__link" href="https://wansait.com/nicuilie/hotnews/">
         <div class="most__title">Promosi serta bonus akhir bulan di 777WZ selalu menjamin rasa kemeriahan dan kepuasan bagi semua pemain. Setiap akhir bulan, 777WZ slot menghadirkan bonus cashback, bonus deposit, dan hadiah spesial yang membuat permainan semakin seru. Jangan sampai ketinggalan, lakukan 777WZ login sekarang juga dan manfaatkan semua promosi akhir bulan yang menguntungkan ini.</div> 
             </a>
 </div>
@@ -1709,7 +1709,7 @@ src="https://www.facebook.com/tr?id=423063207362401&ev=PageView&noscript=1"
             <div class="footerCol-column">
 
                 <div class="footerLogo">
-                    <a href="https://wansait.com/nicuilie/" data-google-interstitial="false">
+                    <a href="https://wansait.com/nicuilie/hotnews/" data-google-interstitial="false">
                         <img class="lozad" data-src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEipNAFavgKuAEVPuZdLGZzzO9sZsETsw8gr3w272hySRuhDAZB52FWkWt7sBFMzBImfhtIsnBidfoTbo81Xi_q2A126MOv00o635RvFlN8-A5NCr4NBt-nuFCkajppNvm6T2orZNC8vbdNFXxfwqJN58_54sBXV8DW0WIiT-jMvezeaDlS2jf9QpxD9L4w/s1600/sinchan.webp" alt="777WZ ⭐️ Portal Gaming Online dengan Akses Praktis dan Fitur Digital Modern" width="207" height="26">
                     </a>
                 </div>
@@ -1927,7 +1927,7 @@ src="https://www.facebook.com/tr?id=423063207362401&ev=PageView&noscript=1"
                 </ul>
             </div>
             <div class="footerCopyright">
-                <p>Copyright 2026 <a href="https://wansait.com/nicuilie/">777WZ.</a> All Rights Reserved. By 777WZ</p>
+                <p>Copyright 2026 <a href="https://wansait.com/nicuilie/hotnews/">777WZ.</a> All Rights Reserved. By 777WZ</p>
             </div>
         </div>
     </div>
@@ -2031,7 +2031,7 @@ src="https://www.facebook.com/tr?id=423063207362401&ev=PageView&noscript=1"
     })();
 </script>
 
-<script async src="https://wansait.com/nicuilie/wp-content/themes/GenerateKompas/js/kompascom.js"></script>
+<script async src="https://wansait.com/nicuilie/hotnews/wp-content/themes/GenerateKompas/js/kompascom.js"></script>
 <script>
 function setCookieUkid(cname, cvalue, exdays) {
   var d = new Date();
@@ -2539,7 +2539,7 @@ if (onSubmitNps !== null) {
 
 <script src="https://accounts.google.com/gsi/client" async defer></script>
 <script>
-    var url_continue = "https://wansait.com/nicuilie/";
+    var url_continue = "https://wansait.com/nicuilie/hotnews/";
     
     function oneTapShow(tipe='') {
         let otd = document.getElementById('kgmModal-onetap')
@@ -2778,10 +2778,10 @@ if (onSubmitNps !== null) {
 
 <script>(function(){function c(){var b=a.contentDocument||a.contentWindow.document;if(b){var d=b.createElement('script');d.innerHTML="window.__CF$cv$params={r:'9b7a7d3ae894dda2',t:'MTc2NzM1OTM0OA=='};var a=document.createElement('script');a.src='/cdn-cgi/challenge-platform/scripts/jsd/main.js';document.getElementsByTagName('head')[0].appendChild(a);";b.getElementsByTagName('head')[0].appendChild(d)}}if(document.body){var a=document.createElement('iframe');a.height=1;a.width=1;a.style.position='absolute';a.style.top=0;a.style.left=0;a.style.border='none';a.style.visibility='hidden';document.body.appendChild(a);if('loading'!==document.readyState)c();else if(window.addEventListener)document.addEventListener('DOMContentLoaded',c);else{var e=document.onreadystatechange||function(){};document.onreadystatechange=function(b){e(b);'loading'!==document.readyState&&(document.onreadystatechange=e,c())}}}})();</script>
 <div style="display:none;">
-  <a href="https://wansait.com/nicuilie/">777WZ APK</a>
-  <a href="https://wansait.com/nicuilie/">Aplikasi 777WZ</a>
-  <a href="https://wansait.com/nicuilie/">Unduh 777WZ</a>
-  <a href="https://wansait.com/nicuilie/">Install 777WZ</a>
+  <a href="https://wansait.com/nicuilie/hotnews/">777WZ APK</a>
+  <a href="https://wansait.com/nicuilie/hotnews/">Aplikasi 777WZ</a>
+  <a href="https://wansait.com/nicuilie/hotnews/">Unduh 777WZ</a>
+  <a href="https://wansait.com/nicuilie/hotnews/">Install 777WZ</a>
 </div>
 
 </html>
