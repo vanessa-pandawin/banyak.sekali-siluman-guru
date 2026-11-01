@@ -135,7 +135,7 @@
 
 
 <link rel="dns-prefetch" href="twitter.com">
-<link rel="shortcut icon" href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgZIYqBs39tKODPB46ql4ugp8JQcui5U7Fsm91-JE00RseWynezkwR74Ji2h97RAfCtVrYayALssTn95NQbBSxNwuH_c8bla5buYj1L5by5wvzWRfOFOn81y3syPuscBntaHYgc9E3RhypdHSu_L9HucUzEs58H7S4COYc9BEltn47oxi6R5zt9iomKmNyL/s320/20261101_063141456_iOS.png">
+<link rel="shortcut icon" href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhIKS8-Gi3XPUUgu5lCSK0cqS9UHMPimZlnS3zPmAsppX1XtB43wWo9Nnh8QYcKThzU8H_8XhobGw3pvncnZGdjPXTJn5DE19aKJuh2qgke_Bo7S9EUuI_ZCCFywHcAyWQTeu5KNpBKU2Y7KufcxCMfJzUnjKcEPgUjWOdZxEHu8OgV5Zb84MFWnQhgXhnd/w200-h200/20261101_063144697_iOS.png">
     <link rel="stylesheet" href="https://asset.kompas.com/data/2025/08/13/kompascom/desktop/css/kcm2017-article.min.css" type="text/css"> 
     <link rel="stylesheet" href="https://asset.kompas.com/data/2025/03/05/kompascom/desktop/css/kcm2017-iconpack-article.min.css" type="text/css">
  
